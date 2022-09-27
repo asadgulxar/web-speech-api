@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Use of Javascript Web speech API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project contain the use of JS Web speech API to convert user speech to text. Currently its convert english and arabic voice to text but you can convert supported language to text. Here is the documentation of web speech API https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
 
 
 ## Demo link
